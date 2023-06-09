@@ -1,4 +1,4 @@
-alert('Ваш Windows заблокирован, перечислите деньги ероше')
+alert('Ваш Windows заблокирован, перечислите деньги 30кг пенису')
 
 window.addEventListener('load', () => {
     const form = document.querySelector('#new-task-form');
